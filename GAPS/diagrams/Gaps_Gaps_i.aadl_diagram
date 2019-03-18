@@ -208,7 +208,7 @@
             <seg>feature</seg>
             <seg>inport</seg>
           </bo>
-          <position x="91.0" y="20.0"/>
+          <position x="91.0" y="30.0"/>
           <contentFilters/>
         </element>
         <element uuid="4dd419bc-138e-4323-b76b-8cc738368af1" dockArea="left" primaryLabelVisible="false">
@@ -216,7 +216,7 @@
             <seg>feature</seg>
             <seg>outport</seg>
           </bo>
-          <position y="20.0"/>
+          <position y="30.0"/>
           <contentFilters/>
         </element>
         <bo>
@@ -239,7 +239,7 @@
             <seg>feature</seg>
             <seg>indiode</seg>
           </bo>
-          <position x="149.0" y="152.0"/>
+          <position x="149.0" y="162.0"/>
           <contentFilters/>
         </element>
         <element uuid="4db33c16-609e-4c4d-82be-71616d905aab" dockArea="left" primaryLabelVisible="false">
@@ -302,7 +302,7 @@
             <seg>feature</seg>
             <seg>outdiode</seg>
           </bo>
-          <position y="152.0"/>
+          <position y="162.0"/>
           <contentFilters/>
         </element>
         <element uuid="d0c8dfc0-57fb-4e72-88dd-57e159864d3d" dockArea="right" primaryLabelVisible="false">
