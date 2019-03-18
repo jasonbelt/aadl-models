@@ -191,7 +191,7 @@
           <seg>feature</seg>
           <seg>lowinport</seg>
         </bo>
-        <position x="741.0" y="180.0"/>
+        <position x="671.0" y="180.0"/>
         <contentFilters/>
       </element>
       <element uuid="5152f027-da66-4d75-8d02-56da674b7d79" dockArea="right" primaryLabelVisible="false">
@@ -199,7 +199,7 @@
           <seg>feature</seg>
           <seg>lowoutport</seg>
         </bo>
-        <position x="741.0" y="90.0"/>
+        <position x="671.0" y="90.0"/>
         <contentFilters/>
       </element>
       <element uuid="de6e945b-c277-4db7-82ba-5a5c7704cda1">
@@ -208,7 +208,7 @@
             <seg>feature</seg>
             <seg>inport</seg>
           </bo>
-          <position x="151.0" y="20.0"/>
+          <position x="91.0" y="20.0"/>
           <contentFilters/>
         </element>
         <element uuid="4dd419bc-138e-4323-b76b-8cc738368af1" dockArea="left" primaryLabelVisible="false">
@@ -224,7 +224,7 @@
           <seg>diode</seg>
         </bo>
         <position x="290.0" y="160.0"/>
-        <size width="171.0" height="71.0"/>
+        <size width="111.0" height="71.0"/>
         <contentFilters>
           <filter>features</filter>
           <filter>internalFeatures</filter>
@@ -317,7 +317,7 @@
           <seg>subcomponent</seg>
           <seg>lowprocessor</seg>
         </bo>
-        <position x="520.0" y="28.0"/>
+        <position x="460.0" y="28.0"/>
         <size width="171.0" height="221.0"/>
         <contentFilters>
           <filter>features</filter>
@@ -341,7 +341,7 @@
             <seg>feature</seg>
             <seg>outport</seg>
           </bo>
-          <position x="151.0" y="25.0"/>
+          <position x="91.0" y="25.0"/>
           <contentFilters/>
         </element>
         <bo>
@@ -349,7 +349,7 @@
           <seg>validator</seg>
         </bo>
         <position x="290.0" y="55.0"/>
-        <size width="171.0" height="71.0"/>
+        <size width="111.0" height="71.0"/>
         <contentFilters>
           <filter>features</filter>
           <filter>internalFeatures</filter>
@@ -363,7 +363,7 @@
         <seg>groundsubsystem</seg>
       </bo>
       <position x="210.0" y="40.0"/>
-      <size width="761.0" height="281.0"/>
+      <size width="691.0" height="281.0"/>
       <contentFilters>
         <filter>connections</filter>
         <filter>flowSpecifications</filter>
@@ -425,7 +425,7 @@
         <seg>subcomponent</seg>
         <seg>lowaircraft</seg>
       </bo>
-      <position x="1020.0" y="80.0"/>
+      <position x="960.0" y="80.0"/>
       <size width="151.0" height="201.0"/>
       <contentFilters>
         <filter>features</filter>
@@ -440,7 +440,7 @@
       <seg>militarytrainingsystem.i</seg>
     </bo>
     <position x="-150.0" y="10.0"/>
-    <size width="1191.0" height="341.0"/>
+    <size width="1131.0" height="341.0"/>
     <contentFilters>
       <filter>features</filter>
       <filter>internalFeatures</filter>
