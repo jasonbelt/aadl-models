@@ -92,4 +92,4 @@ public
       outPort: out event data port;   
   end Diode;
     
-end Gaps;
+end MilitaryTrainingSystem;
