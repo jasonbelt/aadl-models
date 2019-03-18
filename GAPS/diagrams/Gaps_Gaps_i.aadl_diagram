@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="ASCII"?>
+<diagram:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:diagram="http://osate.org/diagram" formatVersion="7">
+  <element uuid="37690478-603a-4ef5-a77f-7bf9b6937d85" manual="true">
+    <element uuid="ef1639c4-d5a5-4b29-8559-3c72a3501f4a">
+      <element uuid="f1754c53-2b43-4c9e-acae-b80952394a83">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c1</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element uuid="30377d6d-4afa-41d8-898c-ffe5d9959f54">
+      <element uuid="cf4fd36b-7c35-4e32-811f-0ba4ef214ab2">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c2</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element uuid="ca18f6dc-c5c8-40da-b56f-7fdcdf98ec9a">
+      <element uuid="f51de0a0-e3c4-4db9-87f9-2d552e198f53">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c3</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element uuid="e32ef52f-a6bb-4fb4-b75e-b1e8eaa63711">
+      <element uuid="db000fda-900c-44c7-b61f-ee5d7397d918">
+        <bo>
+          <seg>tag</seg>
+          <seg>unidirectional</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>connection</seg>
+        <seg>c4</seg>
+      </bo>
+      <contentFilters/>
+    </element>
+    <element uuid="1716fd47-9fd2-4005-8e82-6a1c4dafe875">
+      <element uuid="40afff3a-4ed9-4d68-92df-81123b69befb">
+        <element uuid="acf6431a-021a-4097-a842-b567494675e8">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c1</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="5f86ea59-5634-4ff8-8824-ea657eebc095">
+        <element uuid="9a1f14c0-5a42-4683-a65a-51698a754e87">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c2</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="e6854194-540b-4392-9eaf-9e5226607f30">
+        <element uuid="2c04e096-7532-4eb8-ae78-8ddab0cc1cc0">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c3</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="e0e91fc2-9b5b-44fb-b19d-94c3eae63269">
+        <element uuid="54a6a9f3-fbd9-4e2c-aa1b-8502971faa2d">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c4</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="24c1d902-6d18-4210-badf-63482d44140a">
+        <element uuid="26dec804-c7ac-41c4-a52d-14ffcdef673a">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c5</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="93c72ed4-e57e-448d-be69-565776e3734c">
+        <element uuid="b41a69d5-c4f2-408c-8e50-189cef07ce1d">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c6</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="10ff7a48-c574-4e7b-b669-4e97e2fc36f3">
+        <element uuid="93b88266-a066-477c-b09c-a1b54bd2748a">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c7</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="2c37ebcf-fa1c-4624-9d46-97eb76772361">
+        <element uuid="88239336-871b-4fda-a6cd-2690cbe49da2">
+          <bo>
+            <seg>tag</seg>
+            <seg>unidirectional</seg>
+          </bo>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>connection</seg>
+          <seg>c8</seg>
+        </bo>
+        <contentFilters/>
+      </element>
+      <element uuid="a224af8f-ee49-44c7-b1bd-4d1a7f47cf11" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>highinport</seg>
+        </bo>
+        <position y="90.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="d6ffef9c-cc8e-4696-9cb8-ee9b15e89334" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>highoutport</seg>
+        </bo>
+        <position y="180.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="9c1f5172-3ad9-4b9a-a3ae-745132834d82" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>lowinport</seg>
+        </bo>
+        <position x="771.0" y="180.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="5152f027-da66-4d75-8d02-56da674b7d79" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>lowoutport</seg>
+        </bo>
+        <position x="771.0" y="90.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="de6e945b-c277-4db7-82ba-5a5c7704cda1">
+        <element uuid="b26fb632-6afa-441e-90d6-eb27fe04b899" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>inport</seg>
+          </bo>
+          <position x="151.0" y="20.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="4dd419bc-138e-4323-b76b-8cc738368af1" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outport</seg>
+          </bo>
+          <position y="20.0"/>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>diode</seg>
+        </bo>
+        <position x="290.0" y="160.0"/>
+        <size width="171.0" height="71.0"/>
+        <contentFilters>
+          <filter>features</filter>
+          <filter>internalFeatures</filter>
+          <filter>processorFeatures</filter>
+          <filter>connections</filter>
+          <filter>flowSpecifications</filter>
+        </contentFilters>
+      </element>
+      <element uuid="ad5b5151-a6cf-4376-a0af-bd6c04bdf4a7">
+        <element uuid="214d1d73-2eb2-437e-8e7e-0625fc04eb4b" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>indiode</seg>
+          </bo>
+          <position x="149.0" y="152.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="4db33c16-609e-4c4d-82be-71616d905aab" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>inhighaircraft</seg>
+          </bo>
+          <position y="62.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="d993ff7d-bb61-46e6-9a36-778c190fb65e" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outhighaircraft</seg>
+          </bo>
+          <position y="152.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="e1543ba2-6968-4944-8e5d-e1999526803d" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outvalidator</seg>
+          </bo>
+          <position x="149.0" y="52.0"/>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>highprocessor</seg>
+        </bo>
+        <position x="62.0" y="28.0"/>
+        <size width="169.0" height="221.0"/>
+        <contentFilters>
+          <filter>features</filter>
+          <filter>internalFeatures</filter>
+          <filter>processorFeatures</filter>
+          <filter>connections</filter>
+          <filter>flowSpecifications</filter>
+        </contentFilters>
+      </element>
+      <element uuid="a22913a3-6cf8-4f96-94e8-621023e818fa">
+        <element uuid="aa426011-65e6-4e6c-92ba-2c65ed62182c" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>inlowaircraft</seg>
+          </bo>
+          <position x="167.0" y="152.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="01417eae-3a7b-4482-8506-023fc6170747" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>invalidator</seg>
+          </bo>
+          <position y="52.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="6370958f-1cb3-41e6-b9c1-1fa38d4330dd" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outdiode</seg>
+          </bo>
+          <position y="152.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="d0c8dfc0-57fb-4e72-88dd-57e159864d3d" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outlowaircraft</seg>
+          </bo>
+          <position x="167.0" y="62.0"/>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>lowprocessor</seg>
+        </bo>
+        <position x="540.0" y="28.0"/>
+        <size width="187.0" height="221.0"/>
+        <contentFilters>
+          <filter>features</filter>
+          <filter>internalFeatures</filter>
+          <filter>processorFeatures</filter>
+          <filter>connections</filter>
+          <filter>flowSpecifications</filter>
+        </contentFilters>
+      </element>
+      <element uuid="46d96533-2856-4b67-89cf-93b46d74c2de">
+        <element uuid="44fed50f-ca0c-4eb6-bb9b-73e8f5e8a436" dockArea="left" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>inport</seg>
+          </bo>
+          <position y="25.0"/>
+          <contentFilters/>
+        </element>
+        <element uuid="8d42aa41-b894-4b35-893f-bb3b68e8aebe" dockArea="right" primaryLabelVisible="false">
+          <bo>
+            <seg>feature</seg>
+            <seg>outport</seg>
+          </bo>
+          <position x="151.0" y="25.0"/>
+          <contentFilters/>
+        </element>
+        <bo>
+          <seg>subcomponent</seg>
+          <seg>validator</seg>
+        </bo>
+        <position x="290.0" y="55.0"/>
+        <size width="171.0" height="71.0"/>
+        <contentFilters>
+          <filter>features</filter>
+          <filter>internalFeatures</filter>
+          <filter>processorFeatures</filter>
+          <filter>connections</filter>
+          <filter>flowSpecifications</filter>
+        </contentFilters>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>groundsubsystem</seg>
+      </bo>
+      <position x="210.0" y="40.0"/>
+      <size width="791.0" height="281.0"/>
+      <contentFilters>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+        <filter>features</filter>
+        <filter>processorFeatures</filter>
+        <filter>subcomponents</filter>
+        <filter>internalFeatures</filter>
+      </contentFilters>
+    </element>
+    <element uuid="589ab78c-4af2-4995-812b-b0fc03fd2daf">
+      <element uuid="fce8d06d-00f7-4bab-8d6b-e4b728008951" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>inport</seg>
+        </bo>
+        <position x="119.0" y="140.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="1a25a81c-a1bb-4142-be13-0948ab5cf6a7" dockArea="right" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>outport</seg>
+        </bo>
+        <position x="119.0" y="50.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>highaircraft</seg>
+      </bo>
+      <position x="22.0" y="80.0"/>
+      <size width="139.0" height="201.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <element uuid="14fda4fc-4b87-43de-b1b2-5712fd5ae3e9">
+      <element uuid="c95bbe12-207e-4331-889b-c9404a850fe2" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>inport</seg>
+        </bo>
+        <position y="50.0"/>
+        <contentFilters/>
+      </element>
+      <element uuid="da517046-36db-429c-8e1a-eb36603bf80d" dockArea="left" primaryLabelVisible="false">
+        <bo>
+          <seg>feature</seg>
+          <seg>outport</seg>
+        </bo>
+        <position y="140.0"/>
+        <contentFilters/>
+      </element>
+      <bo>
+        <seg>subcomponent</seg>
+        <seg>lowaircraft</seg>
+      </bo>
+      <position x="1060.0" y="80.0"/>
+      <size width="151.0" height="201.0"/>
+      <contentFilters>
+        <filter>features</filter>
+        <filter>internalFeatures</filter>
+        <filter>processorFeatures</filter>
+        <filter>connections</filter>
+        <filter>flowSpecifications</filter>
+      </contentFilters>
+    </element>
+    <bo>
+      <seg>classifier</seg>
+      <seg>militarytrainingsystem.i</seg>
+    </bo>
+    <position x="-150.0" y="10.0"/>
+    <size width="1231.0" height="341.0"/>
+    <contentFilters>
+      <filter>features</filter>
+      <filter>internalFeatures</filter>
+      <filter>processorFeatures</filter>
+      <filter>connections</filter>
+      <filter>flowSpecifications</filter>
+      <filter>subcomponents</filter>
+    </contentFilters>
+  </element>
+  <config type="structure" connectionPrimaryLabelsVisible="false">
+    <enabledAadlProperties/>
+    <context>
+      <seg>classifier</seg>
+      <seg>militarytrainingsystem::militarytrainingsystem.i</seg>
+    </context>
+  </config>
+</diagram:Diagram>

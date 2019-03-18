@@ -1,0 +1,95 @@
+package MilitaryTrainingSystem
+public
+  
+  system MilitaryTrainingSystem
+  end MilitaryTrainingSystem;
+  
+  system implementation MilitaryTrainingSystem.i
+    subcomponents
+      HighAircraft: system HighAircraft;
+      GroundSubsystem: system GroundSubsystem.i;
+      LowAircraft: system LowAircraft;
+    connections
+      c1: port HighAircraft.outPort -> GroundSubsystem.highInPort;
+      c2: port GroundSubsystem.highOutPort -> HighAircraft.inPort;
+      c3: port LowAircraft.outPort -> GroundSubsystem.lowInPort;
+      c4: port GroundSubsystem.lowOutPort -> LowAircraft.inPort;
+  end MilitaryTrainingSystem.i;
+
+
+  system HighAircraft
+    features
+      inPort: in event data port;
+      outPort: out event data port;
+  end HighAircraft;
+  
+  
+  system LowAircraft
+    features
+      inPort: in event data port;
+      outPort: out event data port;   
+  end LowAircraft;
+    
+    
+  system GroundSubsystem
+    features
+      highInPort: in event data port;
+      highOutPort: out event data port;
+      lowInPort: in event data port;         
+      lowOutPort: out event data port; 
+  end GroundSubsystem;
+  
+  
+  system implementation GroundSubsystem.i
+    subcomponents
+      HighProcessor: system HighProcess;
+      LowProcessor: system LowProcess;
+      Validator: system Validator;
+      Diode: system Diode;
+    connections
+      c1: port highInPort -> HighProcessor.inHighAircraft;
+      c2: port HighProcessor.outHighAircraft -> highOutPort;
+      
+      c3: port lowInPort -> LowProcessor.inLowAircraft;
+      c4: port LowProcessor.outLowAircraft -> lowOutPort;
+      
+      c5: port HighProcessor.outValidator -> Validator.inPort;
+      c6: port Validator.outPort -> LowProcessor.inValidator;
+      
+      c7: port LowProcessor.outDiode -> Diode.inPort;
+      c8: port Diode.outPort -> HighProcessor.inDiode;
+  end GroundSubsystem.i;
+  
+  
+  system HighProcess
+    features
+      inHighAircraft: in event data port;
+      outHighAircraft: out event data port;
+      outValidator: out event data port;
+      inDiode: in event data port;
+  end HighProcess;
+  
+  
+  system LowProcess
+    features
+      inLowAircraft: in event data port;
+      outLowAircraft: out event data port;
+      inValidator: in event data port;
+      outDiode: out event data port;    
+  end LowProcess;
+  
+  
+  system Validator
+    features
+      inPort: in event data port;
+      outPort: out event data port;
+  end Validator;
+    
+    
+  system Diode
+      features
+      inPort: in event data port;
+      outPort: out event data port;   
+  end Diode;
+    
+end Gaps;
